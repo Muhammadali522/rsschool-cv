@@ -1,1 +1,1 @@
-## это моё CV https://muhammadali522.github.io/rsschool-cv/
+## это моё CV https://muhammadali522.github.io/rsschool-cv/cv

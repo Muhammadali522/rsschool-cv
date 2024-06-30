@@ -40,3 +40,5 @@ play();
 - Я учусь в Mars IT School
 - Я учусь в Cambridge kidzz
 
+## Английский язык
+Я учусь в Cambridge kidzz на уровне beginner
